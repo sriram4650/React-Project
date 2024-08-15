@@ -1,0 +1,9 @@
+// React component: In react everything is a component like a header ,footer etc.
+// there are two types of components in react.
+// class based components: Old way of writing code.Nobody uses class based components.
+// functional components: New way of writing code.Everybody uses functional based components now a days..
+// React functional component is just a JS functional component.
+// A normal js function which returns react element (or) JSX is called functional componenet.
+// for an reactelement we render like this root.render(name).
+// for a react componenet we render like this root.render(<name of the comonent/>).
+//component inside a component is called component composition.
